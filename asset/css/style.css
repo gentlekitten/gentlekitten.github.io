@@ -428,7 +428,7 @@ a {
   background-color: var(--color-link);
   background-image: url("https://raw.githubusercontent.com/gentlekitten/gentlekitten.github.io/master/asset/img/cover.background1.jpg");
   background-repeat: no-repeat;
-  background-size: 150vmin;
+  background-size: 50vmin;
   background-position: center;
   transition: opacity 1s;
   z-index: 999999999;
