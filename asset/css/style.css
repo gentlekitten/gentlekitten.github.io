@@ -430,7 +430,7 @@ a {
   background-repeat: no-repeat;
   background-size: 50vmin;
   background-position: center;
-  transition: opacity 1s;
+  transition: opacity 0.5s;
   z-index: 999999999;
 }
 .m-launch.disabled {
